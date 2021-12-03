@@ -1,0 +1,5 @@
+﻿Data;Ativo;Corretora;Descritivo;Quantidade;Valor;Taxa;Tipo
+21/09/2021;CAML3;NuInvest;Compra de CAMIL3;100;27,15;0,002;Compra
+01/10/2021;ITUB4;NuInvest;Compra de ITUB4;100;10,2;;Compra
+27/09/2021;COCA34;NuInvest;Compra de COCA34;4;48,25;;Compra
+22/10/2021;COCA34;NuInvest;Venda de COCA34;4;51,66;;Venda

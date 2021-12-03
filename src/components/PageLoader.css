@@ -1,0 +1,16 @@
+.loader {
+  left: 50%;
+  top: 12%;
+  z-index: 3000;
+  position: absolute;
+}
+
+.disabled-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0.9;
+  z-index: 3000;
+  height: 100%;
+  width: 100%;
+}
